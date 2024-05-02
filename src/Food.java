@@ -1,2 +1,9 @@
-package PACKAGE_NAME;public class Food {
+public class Food {
+
+
+String name;
+    Food(String name){
+
+        this.name = name;
+    }
 }
